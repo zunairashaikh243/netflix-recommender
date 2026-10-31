@@ -1,0 +1,61 @@
+query,title,similarity,type,listed_in,country,release_year,rating
+Stranger Things,Chilling Adventures of Sabrina,0.981,TV Show,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",United States,2020,TV-14
+Stranger Things,Nightflyers,0.925,TV Show,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",United States,2018,TV-MA
+Stranger Things,Helix,0.925,TV Show,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",United States,2015,TV-MA
+Stranger Things,Manifest,0.823,TV Show,"TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",United States,2021,TV-14
+Stranger Things,The Originals,0.791,TV Show,"TV Dramas, TV Horror, TV Mysteries",United States,2018,TV-14
+Stranger Things,The OA,0.786,TV Show,"TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",United States,2019,TV-MA
+Stranger Things,The 4400,0.785,TV Show,"TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",United States,2007,TV-14
+Stranger Things,The Messengers,0.785,TV Show,"TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",United States,2015,TV-14
+Stranger Things,The Vampire Diaries,0.785,TV Show,"TV Dramas, TV Mysteries, TV Sci-Fi & Fantasy",United States,2016,TV-14
+Stranger Things,The Umbrella Academy,0.785,TV Show,"TV Action & Adventure, TV Mysteries, TV Sci-Fi & Fantasy",United States,2020,TV-14
+Breaking Bad,Ozark,0.962,TV Show,"Crime TV Shows, TV Dramas, TV Thrillers",United States,2020,TV-MA
+Breaking Bad,The Assassination of Gianni Versace,0.962,TV Show,"Crime TV Shows, TV Dramas, TV Thrillers",United States,2018,TV-MA
+Breaking Bad,Dare Me,0.962,TV Show,"Crime TV Shows, TV Dramas, TV Thrillers",United States,2019,TV-MA
+Breaking Bad,Designated Survivor,0.962,TV Show,"Crime TV Shows, TV Dramas, TV Thrillers",United States,2019,TV-MA
+Breaking Bad,The Blacklist,0.944,TV Show,"Crime TV Shows, TV Dramas, TV Thrillers",United States,2019,TV-14
+Breaking Bad,The Lizzie Borden Chronicles,0.925,TV Show,"Crime TV Shows, TV Dramas, TV Thrillers",United States,2015,TV-14
+Breaking Bad,House of Cards,0.893,TV Show,"TV Dramas, TV Thrillers",United States,2018,TV-MA
+Breaking Bad,WHAT / IF,0.874,TV Show,"TV Dramas, TV Thrillers",United States,2019,TV-MA
+Breaking Bad,Containment,0.874,TV Show,"TV Dramas, TV Thrillers",United States,2016,TV-MA
+Breaking Bad,Messiah,0.874,TV Show,"TV Dramas, TV Thrillers",United States,2020,TV-MA
+The Twilight Saga: Breaking Dawn: Part 1,The Twilight Saga: Breaking Dawn: Part 2,1.0,Movie,"Dramas, Romantic Movies",United States,2012,PG-13
+The Twilight Saga: Breaking Dawn: Part 1,Dear John,0.93,Movie,"Dramas, Romantic Movies",United States,2010,PG-13
+The Twilight Saga: Breaking Dawn: Part 1,Honey 2,0.93,Movie,"Dramas, Romantic Movies",United States,2011,PG-13
+The Twilight Saga: Breaking Dawn: Part 1,Remember Me,0.93,Movie,"Dramas, Romantic Movies",United States,2010,PG-13
+The Twilight Saga: Breaking Dawn: Part 1,Safe Haven,0.93,Movie,"Dramas, Romantic Movies",United States,2013,PG-13
+The Twilight Saga: Breaking Dawn: Part 1,Burlesque,0.93,Movie,"Dramas, Romantic Movies",United States,2010,PG-13
+The Twilight Saga: Breaking Dawn: Part 1,The Twilight Saga: Eclipse,0.912,Movie,"Dramas, Romantic Movies",United States,2010,PG-13
+The Twilight Saga: Breaking Dawn: Part 1,The Lost Husband,0.912,Movie,"Dramas, Romantic Movies",United States,2020,PG-13
+The Twilight Saga: Breaking Dawn: Part 1,Nights in Rodanthe,0.912,Movie,"Dramas, Romantic Movies",United States,2008,PG-13
+The Twilight Saga: Breaking Dawn: Part 1,Midnight Sun,0.912,Movie,"Dramas, Romantic Movies",United States,2018,PG-13
+Narcos,Marvel's Luke Cage,1.0,TV Show,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States,2018,TV-MA
+Narcos,Marvel's Iron Fist,1.0,TV Show,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States,2018,TV-MA
+Narcos,Queen of the South,0.981,TV Show,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States,2018,TV-MA
+Narcos,Altered Carbon,0.981,TV Show,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States,2020,TV-MA
+Narcos,Marvel's Jessica Jones,0.981,TV Show,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States,2019,TV-MA
+Narcos,Marvel's The Defenders,0.981,TV Show,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States,2017,TV-MA
+Narcos,Shooter,0.963,TV Show,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States,2018,TV-14
+Narcos,Person of Interest,0.944,TV Show,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States,2016,TV-14
+Narcos,Gotham,0.928,TV Show,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States,2019,TV-MA
+Narcos,Marvel's Daredevil,0.917,TV Show,"Crime TV Shows, TV Action & Adventure",United States,2018,TV-MA
+Sacred Games,She,0.946,TV Show,"Crime TV Shows, International TV Shows, TV Dramas",India,2020,TV-MA
+Sacred Games,Delhi Crime,0.946,TV Show,"Crime TV Shows, International TV Shows, TV Dramas",India,2019,TV-MA
+Sacred Games,Jamtara - Sabka Number Ayega,0.912,TV Show,"Crime TV Shows, International TV Shows, TV Dramas",India,2020,TV-MA
+Sacred Games,Khotey Sikkey,0.892,TV Show,"Crime TV Shows, International TV Shows, TV Dramas",India,2011,TV-14
+Sacred Games,Powder,0.892,TV Show,"Crime TV Shows, International TV Shows, TV Dramas",India,2010,TV-14
+Sacred Games,Signs,0.891,TV Show,"Crime TV Shows, International TV Shows, TV Dramas",Poland,2020,TV-MA
+Sacred Games,Mortel,0.891,TV Show,"Crime TV Shows, International TV Shows, TV Dramas",France,2019,TV-MA
+Sacred Games,Babylon Berlin,0.891,TV Show,"Crime TV Shows, International TV Shows, TV Dramas",Germany,2020,TV-MA
+Sacred Games,Ultraviolet,0.891,TV Show,"Crime TV Shows, International TV Shows, TV Dramas",Poland,2019,TV-MA
+Sacred Games,Deadwind,0.891,TV Show,"Crime TV Shows, International TV Shows, TV Dramas",Finland,2020,TV-MA
+Dick Johnson Is Dead,Giving Voice,0.93,Movie,Documentaries,United States,2020,PG-13
+Dick Johnson Is Dead,The Social Dilemma,0.93,Movie,Documentaries,United States,2020,PG-13
+Dick Johnson Is Dead,Crip Camp: A Disability Revolution,0.929,Movie,Documentaries,United States,2020,R
+Dick Johnson Is Dead,Murder to Mercy: The Cyntoia Brown Story,0.929,Movie,Documentaries,United States,2020,TV-MA
+Dick Johnson Is Dead,Lo and Behold: Reveries of the Connected World,0.912,Movie,Documentaries,United States,2016,PG-13
+Dick Johnson Is Dead,Good Hair,0.912,Movie,Documentaries,United States,2009,PG-13
+Dick Johnson Is Dead,The Unknown Known,0.912,Movie,Documentaries,United States,2013,PG-13
+Dick Johnson Is Dead,Bully,0.912,Movie,Documentaries,United States,2012,PG-13
+Dick Johnson Is Dead,A Murder in the Park,0.912,Movie,Documentaries,United States,2014,PG-13
+Dick Johnson Is Dead,Jeremy Scott: The People's Designer,0.912,Movie,Documentaries,United States,2015,PG-13

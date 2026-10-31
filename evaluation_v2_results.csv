@@ -1,0 +1,7 @@
+method,HitRate@10,Precision@10 (hidden genre),NDCG@10,Diversity,Coverage
+Random baseline,0.628,0.1426,0.105,,0.6817
+Metadata only (no genres),0.864,0.4607,0.3658,0.1446,0.5154
+Genres only (TF-IDF),0.17,0.1223,0.6266,0.0294,0.2606
+CountVectorizer (binary),0.327,0.1432,0.64,0.1367,0.4363
+TF-IDF + SVD (100 dims),0.341,0.1814,0.647,0.084,0.4591
+TF-IDF weighted (ours),0.361,0.1856,0.6492,0.1305,0.4592

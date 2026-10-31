@@ -1,0 +1,6 @@
+model,Precision@10,Strict P@10 (J>=0.5),Mean genre Jaccard,Same-type rate,Diversity,Coverage
+Random baseline,0.2461,0.083,0.094,0.5787,0.8106,0.822
+Genres only,1.0,0.9967,0.9659,1.0,0.0125,0.4558
+Genres + type,1.0,0.9967,0.9659,1.0,0.01,0.4915
+Full weighted model,1.0,0.9963,0.9596,1.0,0.0994,0.7408
+No genres (cold-start),0.6891,0.4047,0.3584,1.0,0.1404,0.6139

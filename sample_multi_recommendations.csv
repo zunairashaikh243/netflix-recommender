@@ -1,0 +1,33 @@
+title,similarity,type,listed_in,country,release_year,rating,liked
+American Horror Story,0.835,TV Show,"TV Horror, TV Mysteries, TV Thrillers",United States,2019,TV-MA,Stranger Things + Breaking Bad
+Hannibal,0.823,TV Show,"TV Horror, TV Mysteries, TV Thrillers",United States,2015,TV-MA,Stranger Things + Breaking Bad
+Hemlock Grove,0.793,TV Show,"TV Horror, TV Mysteries, TV Thrillers",United States,2015,TV-MA,Stranger Things + Breaking Bad
+Bloodline,0.791,TV Show,"TV Dramas, TV Mysteries, TV Thrillers",United States,2017,TV-MA,Stranger Things + Breaking Bad
+Tiny Pretty Things,0.791,TV Show,"TV Dramas, TV Mysteries, TV Thrillers",United States,2020,TV-MA,Stranger Things + Breaking Bad
+Ozark,0.789,TV Show,"Crime TV Shows, TV Dramas, TV Thrillers",United States,2020,TV-MA,Stranger Things + Breaking Bad
+Designated Survivor,0.789,TV Show,"Crime TV Shows, TV Dramas, TV Thrillers",United States,2019,TV-MA,Stranger Things + Breaking Bad
+The Blacklist,0.789,TV Show,"Crime TV Shows, TV Dramas, TV Thrillers",United States,2019,TV-14,Stranger Things + Breaking Bad
+American Crime,0.906,TV Show,"Crime TV Shows, TV Dramas",United States,2017,TV-MA,Narcos + Sacred Games + Ozark
+Aquarius,0.906,TV Show,"Crime TV Shows, TV Dramas",United States,2016,TV-MA,Narcos + Sacred Games + Ozark
+Hap and Leonard,0.906,TV Show,"Crime TV Shows, TV Dramas",United States,2018,TV-MA,Narcos + Sacred Games + Ozark
+StartUp,0.906,TV Show,"Crime TV Shows, TV Dramas",United States,2018,TV-MA,Narcos + Sacred Games + Ozark
+Unbelievable,0.891,TV Show,"Crime TV Shows, TV Dramas",United States,2019,TV-MA,Narcos + Sacred Games + Ozark
+When They See Us,0.891,TV Show,"Crime TV Shows, TV Dramas",United States,2019,TV-MA,Narcos + Sacred Games + Ozark
+American Crime Story: The People v. O.J. Simpson,0.884,TV Show,"Crime TV Shows, TV Dramas",United States,2016,TV-MA,Narcos + Sacred Games + Ozark
+Damnation,0.884,TV Show,"Crime TV Shows, TV Dramas",United States,2017,TV-MA,Narcos + Sacred Games + Ozark
+The Twilight Saga: Breaking Dawn: Part 2,0.982,Movie,"Dramas, Romantic Movies",United States,2012,PG-13,The Twilight Saga: Breaking Dawn: Part 1 + Dear John
+Safe Haven,0.982,Movie,"Dramas, Romantic Movies",United States,2013,PG-13,The Twilight Saga: Breaking Dawn: Part 1 + Dear John
+Honey 2,0.947,Movie,"Dramas, Romantic Movies",United States,2011,PG-13,The Twilight Saga: Breaking Dawn: Part 1 + Dear John
+Remember Me,0.947,Movie,"Dramas, Romantic Movies",United States,2010,PG-13,The Twilight Saga: Breaking Dawn: Part 1 + Dear John
+Burlesque,0.947,Movie,"Dramas, Romantic Movies",United States,2010,PG-13,The Twilight Saga: Breaking Dawn: Part 1 + Dear John
+After,0.929,Movie,"Dramas, Romantic Movies",United States,2019,PG-13,The Twilight Saga: Breaking Dawn: Part 1 + Dear John
+Before I Fall,0.929,Movie,"Dramas, Romantic Movies",United States,2017,PG-13,The Twilight Saga: Breaking Dawn: Part 1 + Dear John
+Five Feet Apart,0.929,Movie,"Dramas, Romantic Movies",United States,2019,PG-13,The Twilight Saga: Breaking Dawn: Part 1 + Dear John
+Giving Voice,0.947,Movie,Documentaries,United States,2020,PG-13,Dick Johnson Is Dead + The Social Dilemma
+Murder to Mercy: The Cyntoia Brown Story,0.945,Movie,Documentaries,United States,2020,TV-MA,Dick Johnson Is Dead + The Social Dilemma
+Crip Camp: A Disability Revolution,0.945,Movie,Documentaries,United States,2020,R,Dick Johnson Is Dead + The Social Dilemma
+A Murder in the Park,0.929,Movie,Documentaries,United States,2014,PG-13,Dick Johnson Is Dead + The Social Dilemma
+The Unknown Known,0.929,Movie,Documentaries,United States,2013,PG-13,Dick Johnson Is Dead + The Social Dilemma
+Good Hair,0.929,Movie,Documentaries,United States,2009,PG-13,Dick Johnson Is Dead + The Social Dilemma
+Lo and Behold: Reveries of the Connected World,0.929,Movie,Documentaries,United States,2016,PG-13,Dick Johnson Is Dead + The Social Dilemma
+Jeremy Scott: The People's Designer,0.929,Movie,Documentaries,United States,2015,PG-13,Dick Johnson Is Dead + The Social Dilemma
